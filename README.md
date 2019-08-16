@@ -2,6 +2,7 @@
 基于Socket-TCP的简易聊天室
 
 多线程
+![chat](https://github.com/GGG1235/chat/blob/master/images/chat.png)
 
 #### Server:
 ```
@@ -48,3 +49,9 @@ OR
 ```
 
 ##### 截图:
+
+###### 客户端:
+![client](https://github.com/GGG1235/chat/blob/master/images/client.png)
+
+###### 服务端:
+![server](https://github.com/GGG1235/chat/blob/master/images/server.png)
