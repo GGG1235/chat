@@ -60,7 +60,7 @@ int main(int argc,const char **argv,const char **envp){
 
 void send_msg(int sock){
     while(1){
-        std::cin>>msg;
+        getline(std::cin,msg);
         if (msg=="Q"||msg=="q"){
             close(sock);
             exit(0);
